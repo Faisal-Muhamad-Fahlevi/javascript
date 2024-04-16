@@ -1,4 +1,4 @@
-const Ng = prompt ("Masukan anak ayam: ");
+const N = prompt ("Masukan anak ayam: ");
 console.log(" Anak ayam ada "+ N);
 
 for(let i = N; i >=1; i--) {
